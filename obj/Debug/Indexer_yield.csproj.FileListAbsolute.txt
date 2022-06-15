@@ -1,0 +1,8 @@
+E:\#1Programming\2022\patterns\Indexer_yield\Indexer_yield\bin\Debug\Indexer_yield.exe.config
+E:\#1Programming\2022\patterns\Indexer_yield\Indexer_yield\bin\Debug\Indexer_yield.exe
+E:\#1Programming\2022\patterns\Indexer_yield\Indexer_yield\bin\Debug\Indexer_yield.pdb
+E:\#1Programming\2022\patterns\Indexer_yield\Indexer_yield\obj\Debug\Indexer_yield.csproj.AssemblyReference.cache
+E:\#1Programming\2022\patterns\Indexer_yield\Indexer_yield\obj\Debug\Indexer_yield.csproj.SuggestedBindingRedirects.cache
+E:\#1Programming\2022\patterns\Indexer_yield\Indexer_yield\obj\Debug\Indexer_yield.csproj.CoreCompileInputs.cache
+E:\#1Programming\2022\patterns\Indexer_yield\Indexer_yield\obj\Debug\Indexer_yield.exe
+E:\#1Programming\2022\patterns\Indexer_yield\Indexer_yield\obj\Debug\Indexer_yield.pdb
